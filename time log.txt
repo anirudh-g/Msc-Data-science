@@ -1,8 +1,8 @@
 Date    No.of hours   Activity
 22.06	      7	        Topic proposal and getting to know the 2 proposed topic
 23.06	      5	        Read a paper on data extraction and evaluation
-24.06	      6.5	      Read 2 papers on various chart classification
-25.06	      6.5	      Read 2 papers
+24.06	     6.5	      Read 2 papers on various chart classification
+25.06	     6.5	      Read 2 papers
 26.06	      6	        Read a paper on data extraction + 2 papers on CNN
 27.06	      2	        Prepare presentation and consolidate the week
 28-Jun	    0	        Break
@@ -13,4 +13,4 @@ Date    No.of hours   Activity
 03-Jul	    5	        Build dataset; hands with object detection and data extraction
 04-Jul	    3	        Prepare presentation and consolidate the week
 05-Jul	    1	        Review dissertation feedback
-06-Jul      9         Dissertation update based on feedback; group meeting; setting up github repo and colab 
+06-Jul      9         Dissertation update based on feedback; group meeting; setting up github repo and colab; getting started with coding
