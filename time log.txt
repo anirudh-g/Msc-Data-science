@@ -1,10 +1,10 @@
 Date    No.of hours   Activity
-22.06	      7	        Topic proposal and getting to know the 2 proposed topic
-23.06	      5	        Read a paper on data extraction and evaluation
-24.06	     6.5	      Read 2 papers on various chart classification
-25.06	     6.5	      Read 2 papers
-26.06	      6	        Read a paper on data extraction + 2 papers on CNN
-27.06	      2	        Prepare presentation and consolidate the week
+22-Jun	    7	        Topic proposal and getting to know the 2 proposed topic
+23-Jun	    5	        Read a paper on data extraction and evaluation
+24-Jun	   6.5	      Read 2 papers on various chart classification
+25-Jun	   6.5	      Read 2 papers
+26-Jun	    6	        Read a paper on data extraction + 2 papers on CNN
+27-Jun	    2	        Prepare presentation and consolidate the week
 28-Jun	    0	        Break
 29-Jun	    7	        Weekly Meeting; Set Task; Hands on with tesseract and cnn
 30-Jun	    9	        Draft of introduction chapter; survey datasets; hands on with ocr
