@@ -22,4 +22,4 @@ on data extraction if time permits. Advice to generate synthetic charts was give
 - building the initial classifier 
 - expanding the dataset to include more chart types
 - work on introduction and background chapters of dissertation
-- find possible solutions w.r.t opensource tools mentioned above.
+- find possible classification techniques
