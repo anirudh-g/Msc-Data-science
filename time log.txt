@@ -15,3 +15,4 @@ Date    No.of hours   Activity
 05-Jul	    1	        Review dissertation feedback
 06-Jul      10        Dissertation update based on feedback; group meeting; setting up github repo and colab; survey on generating synthetic chart images
 07-Jul      8         Reconfigure dataset with jpg images; Create baseline CNN model
+08-Jul      10        Expand dataset to 5 classes; Retrain baseline CNN model; Experiment to achieve result reproducibility
