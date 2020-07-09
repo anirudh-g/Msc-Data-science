@@ -12,7 +12,7 @@ Date    No.of hours   Activity
 02-Jul	    6	        Build dataset; hands with object detection and data extraction
 03-Jul	    5	        Build dataset; hands with object detection and data extraction
 04-Jul	    3	        Prepare presentation and consolidate the week
-05-Jul	    1	        Review dissertation feedback
+05-Jul	    1.5	      Review dissertation feedback
 06-Jul      10        Dissertation update based on feedback; group meeting; setting up github repo and colab; survey on generating synthetic chart images
 07-Jul      8         Reconfigure dataset with jpg images; Create baseline CNN model
 08-Jul      10        Expand dataset to 5 classes; Update and train baseline CNN model; Experiment to achieve result reproducibility
