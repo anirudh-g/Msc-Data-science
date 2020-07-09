@@ -6,7 +6,7 @@ The next meeting was agreed to be on next week where the task is to do backgroun
 
 29.06
 The progress from the last week and the short summary of the survey was presented. Professor was happy with both. 
-The plan for next week and the overall project plan was presented. Advice was given to focus on text detection and data extraction. 
+The plan for next week and the overall project plan was presented. Advice was given to focus on text defining the project scope. 
 Guidelines on building the dataset was given. 
 Advice to write the intro chapter of dissertation and design proposal was given. 
 Task to look into variations in a chart. Start building the dataset. 
