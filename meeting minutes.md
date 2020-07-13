@@ -23,3 +23,10 @@ on data extraction if time permits. Advice to generate synthetic charts was give
 - expanding the dataset to include more chart types
 - work on introduction and background chapters of dissertation
 - find possible classification techniques
+
+13.07
+This is was an individual meeting lasting 30 mins. Professor was happy with the progress made from last week. The configuration of baseline model was explained and intention to use transfer learning for image classification was proposed. Professor was happy for me to continue with transfer learning, while giving advice on using pre-trained model on synthetic images rather than imagenet. Advice was given to think about localization, chart image generation, synthetic documents with randomized chart images, worling with distorted chart images (comparing with human recognition) and predicting the parts of charts as many options to move ahead in the project. This week's task is to:
+- Survey the above mentioned options to implement
+- Start draft of background chapter
+- Investigate and implement transfer learning approach for image classification
+- Work on labelling the dataset (if necessary)
