@@ -19,3 +19,4 @@ Date    No.of hours   Activity
 09-Jul      7         Dissertation report - update introduction chapter; draft dataset and baseline model subsection; survey chart types to expand dataset
 10-Jul      4         Update dataset to 7 classes; survey pre trained CNN models
 11-Jul      1         Prepare meeting presentation; Consolidate the week
+12-Jul      0         Break
