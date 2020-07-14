@@ -17,6 +17,7 @@ Date    No.of hours   Activity
 07-Jul      8         Reconfigure dataset with jpg images; Create baseline CNN model
 08-Jul      10        Expand dataset to 5 classes; Update and train baseline CNN model; Experiment to achieve result reproducibility
 09-Jul      7         Dissertation report - update introduction chapter; draft dataset and baseline model subsection; survey chart types to expand dataset
-10-Jul      4         Update dataset to 7 classes; survey pre trained CNN models
+10-Jul      4         Expand dataset to 7 classes; survey pre trained CNN models
 11-Jul      1         Prepare meeting presentation; Consolidate the week
 12-Jul      0         Break
+13-Jul      7         Weekly meeting; Set week's tasks; experimenting with object detection packages
