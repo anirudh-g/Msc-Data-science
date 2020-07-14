@@ -21,3 +21,4 @@ Date    No.of hours   Activity
 11-Jul      1         Prepare meeting presentation; Consolidate the week
 12-Jul      0         Break
 13-Jul      7         Weekly meeting; Set week's tasks; experimenting with object detection packages
+14-Jul      8         Experiment with object detection and image labelling; Explore working with distorted images; Survey synthetic pdf generation 
