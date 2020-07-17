@@ -22,4 +22,5 @@ Date    No.of hours   Activity
 12-Jul      0         Break
 13-Jul      7         Weekly meeting; Set week's tasks; experimenting with object detection packages
 14-Jul      8         Experiment with object detection and image labelling; Explore working with distorted images; Survey synthetic pdf generation 
-15-Jul      9         Implement transfer learning with vgg16; experiment with dataset classes; explore denoising images with autoencoder 
+15-Jul      9         Implement transfer learning; experiment with dataset classes; explore denoising images with autoencoder 
+16-Jul      9         Experminet with pre-trained models (vgg16, renset50, mobilnetv2); Cleanup dataset (renaming files) 
