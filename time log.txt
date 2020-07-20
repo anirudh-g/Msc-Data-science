@@ -27,3 +27,4 @@ Date    No.of hours   Activity
 17-Jul      8         Implement transfer learning (vgg16 and mobilenetv2); experiment with autoencoder; create object detection dataset (inital setup)
 18-Jul      0         Break
 19-Jul      0         Break
+20-Jul      10        Chart labelling; Implement object detection (with 2 chart types); Experiment with learning rate
