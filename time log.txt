@@ -25,3 +25,5 @@ Date    No.of hours   Activity
 15-Jul      9         Implement transfer learning; experiment with dataset classes; survey denoising images with autoencoder 
 16-Jul      9         Experminet with pre-trained models (vgg16, renset50, mobilnetv2); Cleanup dataset (renaming files) 
 17-Jul      8         Implement transfer learning (vgg16 and mobilenetv2); experiment with autoencoder; create object detection dataset (inital setup)
+18-Jul      0         Break
+19-Jul      0         Break
