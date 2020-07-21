@@ -32,7 +32,7 @@ This is was an individual meeting lasting 30 mins. Professor was happy with the 
 - Work on labelling the dataset (if necessary)
 
 21.07
-This was a group meeting lasting 1.5 hrs. I presented my progress from last week and professor and explained the challenges I faced and how I overcame them. Advice was given to experiment on data augmentation and varying the learning rate & weights decay for transfer learning image classification. In terms of object detection, the professor agreed with my choice of labels to detect (title, axis label, legend). We were informed that we wont have a meeting next week. Therefore, the task for the nest 2 weeks include:
+This was a group meeting lasting 1.5 hrs. I presented my progress from last week and explained the challenges I faced and how I overcame them. Advice was given to experiment on data augmentation and varying the learning rate & weights decay for transfer learning image classification. In terms of object detection, the professor agreed with my choice of labels to detect (title, axis label, legend). We were informed that we wont have a meeting next week. Therefore, the task for the next 2 weeks include:
 - Finalize the dataset
 - Labelling the images
 - Experiment and fine tune transfer learning
