@@ -31,4 +31,6 @@ Date    No.of hours   Activity
 21-Jul      7         Weekly group meeting; Chart image labelling; Dataset reconfiguration
 22-Jul      8         Dataset reconfiguration; Chart image labelling
 23-Jul      8         Verify reconfigured dataset; End-to-end object detection implementation
-24-Jul      7         Optimize Chart classification - experiment with image size, data augmentation, color space, optimizers and learning rate
+24-Jul      8         Optimize Chart classification - experiment with image size, data augmentation, color space, optimizers and learning rate
+25-Jul      0         Break
+26-Jul      0         Break
