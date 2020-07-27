@@ -34,3 +34,4 @@ Date    No.of hours   Activity
 24-Jul      8         Optimize Chart classification - experiment with image size, data augmentation, color space, optimizers and learning rate
 25-Jul      0         Break
 26-Jul      0         Break
+27-Jul      9         Transfer learning fine tuning; Baseline CNN experiment with learning rate scheduling;
