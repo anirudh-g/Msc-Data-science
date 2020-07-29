@@ -34,4 +34,6 @@ Date    No.of hours   Activity
 24-Jul      8         Optimize Chart classification - experiment with image size, data augmentation, color space, optimizers and learning rate
 25-Jul      0         Break
 26-Jul      0         Break
-27-Jul      9         Transfer learning fine tuning; Baseline CNN experiment with learning rate scheduling;
+27-Jul      10        Transfer learning fine tuning; Baseline CNN experiment with learning rate scheduling;
+28-Jul      8         Implement and experiment on initial denoising autoencoders
+29-Jul      7         Explore literature on ablation study; Update dissertation on dataset and baseline cnn model
