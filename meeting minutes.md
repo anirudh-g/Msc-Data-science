@@ -40,3 +40,11 @@ This was a group meeting lasting 1.5 hrs. I presented my progress from last week
 - Continue working on autoencoders
 - Explore localization using mask rcnn
 - Explore color space augmentation for images
+
+03.08
+This was an individual meeting after 2 weeks. I presented my progress which included learning rate scheduling for baseline cnn, fine tuning mobilenetv2 and vgg16 transfer learning, object detection results, autoencoder performance, thoughts about color spaces based on experimentation and discussion about ablation study. The professor was happy with the progress and suggested to work on vgg16 transfer learning as it provided the best performance. The performance of autoencoders was discussed and decsision was taken to not further proceed with the implementation as it has very little impact on the overall project and does not provide good performance. The plan for this week includes:
+- fine tune vgg16 further
+- Confidence score cut off threshold for object detection
+- Introduce noise in classification and object detection to make it similar to real world data 
+- Increase epochs to 200/300 to test the learning rate decay in baseline cnn
+- Experiment with lab color space (if possible)
