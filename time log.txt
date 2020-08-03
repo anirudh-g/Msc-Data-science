@@ -37,3 +37,7 @@ Date    No.of hours   Activity
 27-Jul      10        Transfer learning fine tuning; Baseline CNN experiment with learning rate scheduling;
 28-Jul      8         Implement and experiment on initial denoising autoencoders
 29-Jul      7         Explore literature on ablation study; Update dissertation on dataset and baseline cnn model
+30-Jul      0         Break
+31-Jul      0         Break
+01-Aug      0         Break
+02-Aug      2         Prepare ppt for meeting and consolidate the week
