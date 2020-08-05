@@ -41,3 +41,6 @@ Date    No.of hours   Activity
 31-Jul      0         Break
 01-Aug      0         Break
 02-Aug      2         Prepare ppt for meeting and consolidate the week
+03-Aug      9         Weekly meeting; Set tasks for the week; Worked on Ablation study on baseline cnn model
+04-Aug      8         Worked on - data augmentation and its effect on the classification results; Inject random gaussian noise in the dataset
+05-Aug      6         Effects of noise in dataset; altering epochs and learning rate scheduling for baseline model         
