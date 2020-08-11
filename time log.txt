@@ -48,3 +48,5 @@ Date    No.of hours   Activity
 07-Aug      8         Ablation study with noise on tl and baseline cnn model
 08-Aug      0         Break
 09-Aug      0         Break
+10-Aug      8         Confidence score threshold to avoid false positives; Weekly group meeting (2.5hrs); set tasks for the weeks
+11-Aug      9         Cnfusion matrix and classification report for baseline cnn; update dissertation report for design and implementation chapters; survey evalution methods
