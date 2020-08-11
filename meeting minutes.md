@@ -18,21 +18,21 @@ This was a group meeting lasting about 1.5 hrs. Valuable ideas were shared betwe
 For my part, I explained the work done in the last week which includes survey of CNN classifiers, building the dataset, writing the 
 introduction part of dissertation and the hand-on experience with the limitations of the opensource tool tesseract (python) for text extraction and opencv for object
 detection. Due to the limitations and inaccuracy of opensource tools, advice was given to first focus on classification of chart images and to work
-on data extraction if time permits. Advice to generate synthetic charts was given. Plan for this week is to work on:
+on data extraction if time permits. Plan for this week is to work on:
 - building the initial classifier 
 - expanding the dataset to include more chart types
 - work on introduction and background chapters of dissertation
 - find possible classification techniques
 
 13.07
-This is was an individual meeting lasting 30 mins. Professor was happy with the progress made from last week. The configuration of baseline model was explained and intention to use transfer learning for image classification was proposed. Professor was happy for me to continue with transfer learning, while giving advice on using pre-trained model on synthetic images rather than imagenet. Advice was given to think about localization, chart image generation, synthetic documents with randomized chart images, worling with distorted chart images (comparing with human recognition) and predicting the parts of charts as many options to move ahead in the project. This week's task is to:
+This is was an individual meeting lasting 30 mins. Professor was happy with the progress made from last week. The configuration of baseline model was explained and intention to use transfer learning for image classification was proposed. Professor was happy for me to continue with transfer learning, while giving advice on experimenting with pre-trained model weights. Advice was given to think about localization, chart image generation, synthetic documents with randomized chart images, working with distorted chart images and predicting the parts of charts as many options to move ahead in the project. This week's task is to:
 - Survey the above mentioned options to implement
 - Start draft of background chapter
 - Investigate and implement transfer learning approach for image classification
 - Work on labelling the dataset (if necessary)
 
 21.07
-This was a group meeting lasting 1.5 hrs. I presented my progress from last week and explained the challenges I faced and how I overcame them. Advice was given to experiment on data augmentation and varying the learning rate & weights decay for transfer learning image classification. In terms of object detection, the professor agreed with my choice of labels to detect (title, axis label, legend). We were informed that we wont have a meeting next week. Therefore, the task for the next 2 weeks include:
+This was a group meeting lasting 1.5 hrs. I presented my progress from last week and explained the challenges I faced and how I overcame them. Advice was given to experiment on data augmentation and varying the learning rate & weights decay for transfer learning image classification. In terms of object detection, the professor agreed with my choice of labels to detect (title, axis label, legend). Experiment on autoencoders for chart image denoising was proposed. We were informed that we wont have a meeting next week. Therefore, the task for the next 2 weeks include:
 - Finalize the dataset
 - Labelling the images
 - Experiment and fine tune transfer learning
@@ -48,3 +48,11 @@ This was an individual meeting after 2 weeks. I presented my progress which incl
 - Introduce noise in classification and object detection to make it similar to real world data 
 - Increase epochs to 200/300 to test the learning rate decay in baseline cnn
 - Experiment with lab color space (if possible)
+
+10.08
+This was a group meeting lasting 1.5 hrs. I presented my progress from last week which includes injection of gaussian noise in the dataset, ablation study, effect of increasing the epochs to 300 in baseline model and optimizing the classification models. Suggestion was made to analyse the class-wise understanding of these models to better analyse the strengths and weaknesses and to improve the ablation study. The task for this week includes:
+- Class-wise analysis of the model performance
+- Improve ablation study according the class-wise analysis
+- Set confidence score threshold for object detection
+- Explain the model performance in terms of its effect on dataset
+- Continue writing the dissertation report
