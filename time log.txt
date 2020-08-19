@@ -53,3 +53,8 @@ Date    No.of hours   Activity
 12-Aug      9         Dataset reconfiguration - expand the dataset diversity by including chart images from excel; Create excel charts using random data; Label the chart images for object detection
 13-Aug      9         Update dataset; Retrain models with updated dataset; performance inference from confusion matrix; update ablation study based on inference from confusion matrix 
 14-Aug      8         Continue retraining and updating models; feature visualization using tsne plot; survey object detection metrics
+15-Aug      0         Break
+16-Aug      0         Break
+17-Aug      10        Update object detection dataset; Object detection - data augmentation and noise injection
+18-Aug      6         Model trained with noisy images; model trained without noisy images
+19-Aug      8         Attempt to calculate map, iou - convert output prediction labels and coordinates to csv file
