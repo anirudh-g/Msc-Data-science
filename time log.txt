@@ -58,3 +58,7 @@ Date    No.of hours   Activity
 17-Aug      10        Update object detection dataset; Object detection - data augmentation and noise injection
 18-Aug      6         Model trained with noisy images; model trained without noisy images
 19-Aug      8         Attempt to calculate map, iou - convert output prediction labels and coordinates to csv file
+20-Aug      10        Continue working on object recognition metrics - survey other possible metrics
+21-Aug      10        Finalize classification evaluation
+22-Aug      0         Break
+23-Aug      0         Break
