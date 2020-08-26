@@ -61,4 +61,7 @@ Date    No.of hours   Activity
 20-Aug      10        Continue working on object recognition metrics - survey other possible metrics
 21-Aug      10        Finalize classification evaluation
 22-Aug      0         Break
-23-Aug      0         Break
+23-Aug      3         Create demo notebook and meeting presentation
+24-Aug      10        Weekly meeting; set tasks for the week; survey object detection metrics implementation; convert nested list of labels to tensors with custom mapping
+25-Aug      7         Read xml into the required format of tensors
+
