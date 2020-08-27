@@ -65,3 +65,4 @@ Date    No.of hours   Activity
 24-Aug      10        Weekly meeting; set tasks for the week; survey object detection metrics implementation; convert nested list of labels to tensors with custom mapping
 25-Aug      7         Read xml into the required format of tensors
 26-Aug      10        Implement mAP metric; Survey on the results from the evaluation; Explore survey on small-object detection problem
+27-Aug      10        Continue survey on small-object detection problem; ablation study to understand the results
