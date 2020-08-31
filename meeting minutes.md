@@ -56,3 +56,9 @@ This was a group meeting lasting 1.5 hrs. I presented my progress from last week
 - Set confidence score threshold for object detection
 - Explain the model performance in terms of its effect on dataset
 - Continue writing the dissertation report
+
+24.08
+This was an individual meeting. The user demo of the project was presented. Class-wise model performance, abalation study, setting confidence score threshold and changes & updates to improve the dataset diversity was presented. The professor was happy with the progress made. Suggestion was made to work on the image cropping and paddding for the classifcation's input for the demo to preserve features. The task for this week:
+- Work on evaludation plan for object detection
+- Implement eval metric : per class avg.precision and mean avg precision
+- Code clean up and find bugs
