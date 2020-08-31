@@ -62,3 +62,9 @@ This was an individual meeting. The user demo of the project was presented. Clas
 - Work on evaludation plan for object detection
 - Implement eval metric : per class avg.precision and mean avg precision
 - Code clean up and find bugs
+
+31.08
+This was a group meeting. Progress made from the last week and challenges faced while making the progress was explained to the professor. The results from object detection was discussed and compared to the state-of-the-art software to put it in perspective. The professor was happy with the progress and agreed with the reasoning for the results. Suggestion was made to use scaled images to cambat the cropping issue for larger images to the target size. The plan for this week includes:
+- Produce a draft of the dissertation report
+- Work on the image resizing
+- Code cleanup and finalization
