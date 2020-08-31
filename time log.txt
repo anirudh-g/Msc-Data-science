@@ -66,3 +66,6 @@ Date    No.of hours   Activity
 25-Aug      7         Read xml into the required format of tensors
 26-Aug      10        Implement mAP metric; Survey on the results from the evaluation; Explore survey on small-object detection problem
 27-Aug      10        Continue survey on small-object detection problem; ablation study to understand the results
+28-Aug       6        Calaculate number of small-objects in the validation set; clean up code
+29-Aug       0        Break
+30-Aug       2        Prepare meeting ppt and consolidate the week
