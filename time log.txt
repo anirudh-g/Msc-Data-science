@@ -69,3 +69,10 @@ Date    No.of hours   Activity
 28-Aug       6        Calaculate number of small-objects in the validation set; clean up code
 29-Aug       0        Break
 30-Aug       2        Prepare meeting ppt and consolidate the week
+31-Aug       9        Test Image loading for classification; Group meeting; Set tasks for the week
+01-Sep       7        Dissertation draft - design chapter
+02-Sep       7        Dissertation draft - design chapter and results chapter
+03-Sep       7        Dissertation draft - results chapter
+04-Sep       6        Dissertation draft - analysis chapter
+05-Sep       3        Update dissertation draft - design chapter
+06-Sep       4        Update dissertation draft - results chapter; prepare meeting ppt
