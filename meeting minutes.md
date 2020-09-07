@@ -68,3 +68,10 @@ This was a group meeting. Progress made from the last week and challenges faced 
 - Produce a draft of the dissertation report
 - Work on the image resizing
 - Code cleanup and finalization
+
+07.09
+This was an individual meeting. I presented my progress from last week which included writing the draft of the dissertation report. I wrote the draft of the analysis chapter, the design chapter and the results chapter. Feedback was given to work on:
+- background survey of the project
+- The implementation details
+- Summarize the methodologies 
+- Improve evidence/reasoning for thr descisions
